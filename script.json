@@ -1,6 +1,6 @@
 {
     "MEETING": "Do you want to set up a meeting with Justin? %[Set up a Meeting](postback:here_for_the_meeting) %[Learn about Smooch](postback:learn_about_smooch) %[Get to Know the Team!](postback:random_fact)",
-    "HELLO": "Hello there, I’m the personal bot of our Head of Business Development, Justin Clegg at Smooch.io. \nBefore I introduce you to Justin, I'd like to learn a littl more about your business.\n ![Justin](https://yt3.ggpht.com/-ACPGLFShFQg/AAAAAAAAAAI/AAAAAAAAAAA/dGixJkFZgGs/s900-c-k-no-rj-c0xffffff/photo.jpg)Do you want to set up a meeting with Justin? %[Set up a Meeting](postback:twitter)",
+    "HELLO": "Hello there, I’m the personal bot of our Head of Business Development, Justin Clegg at Smooch.io. \nBefore I introduce you to Justin, I'd like to learn a littl more about your business.\n ![Justin](https://yt3.ggpht.com/-ACPGLFShFQg/AAAAAAAAAAI/AAAAAAAAAAA/dGixJkFZgGs/s900-c-k-no-rj-c0xffffff/photo.jpg) Do you want to set up a meeting with Justin? %[Set up a Meeting](postback:twitter)",
     "TELL HIM": "Let's tweet @ Smooch so we know you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Smooch](https://twitter.com/smoochlabs)",
     "I LOVE YOU": "And I love you, random citizen!",
     "CONNECT ME": "",
