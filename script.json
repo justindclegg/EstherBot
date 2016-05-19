@@ -1,8 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Justin, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "BOT": "If you're wondering if I'm a human or a bot, the answer is both. \nI was built to better understand your business before getting you a meeting with our Head of Business Development\n![Justin](https://yt3.ggpht.com/-ACPGLFShFQg/AAAAAAAAAAI/AAAAAAAAAAA/dGixJkFZgGs/s900-c-k-no-rj-c0xffffff/photo.jpg)\nWant to set up a meeting with Justin? %[Here for a Meeting](postback:here_for_the_meeting) %[Learn about Smooch](postback:learn_about_smooch) %[Get to Know the Team!](postback:random_fact)",
+    "HELLO": "Hey there, I’m the personal bot of Justin Clegg, our Head of Business Development at Smooch.io! Glad you're here to learn about Smooch.io. Do you want to set up a meeting with Justin? %[Tell her](postback:twitter)",
+    "TELL HER": "Let's tweet @ Smooch so we know you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Smooch](https://twitter.com/smoochlabs)",
+    "I LOVE YOU": "And I love you, random citizen!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, Smooch.io SalesBot is back."
 }
