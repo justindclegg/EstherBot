@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi I am JustinBot!🤖 I was made with love by my creator, Justin Clegg in San Francisco, California. 🚀 Just say Hello to get started.')
+            return bot.say('Hi Im JustinBot! 🤖 I was made with love by my creator, Justin Clegg in San Francisco, California. 🚀 Just say Hello to get started.')
                 .then(() => 'speak');
         }
     },
