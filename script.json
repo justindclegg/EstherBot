@@ -2,7 +2,7 @@
     "HELLO": "Well hello back! 🤖 I'm here to help you build your own bot. \nWhat would you like to do first?%[Build my bot!](postback:learn_about_smooch) %[Hear a Joke](postback:random_fact) %[Get to know Justin](https://www.linkedin.com/in/justindclegg)",
     "WHERE WERE YOU BORN?": "I was born in San Francisco thanks to my creator, Justin Clegg 🤖",
     "WHERE DO YOU LIVE?": "I currently live with my creator 👉Justin Clegg in Palo Alto, California.\n Where do you live?",
-    "MEETING": "Happy to set you up with a meeting with Justin. Click to find a time on his calendar below 📅: %[Justins Calendar](https://calendly.com/justindclegg)",
+    "MEETING": "Happy to set you up with a meeting with Justin. Click below to find a time on his calendar 📅: %[Justins Calendar](https://calendly.com/justindclegg)",
     "CAN I MEET WITH JUSTIN?": "Happy to set you up with a meeting with Justin. Click to find a time on his calendar below 📅: %[Justins Calendar](https://calendly.com/justindclegg)",
     "TELL HIM": "Let's tweet @ Justin so we know you're setting a bot up. Here's a tweet that's ready to go: %[Tweet @Justin](https://twitter.com/cleggskie)",
     "I LOVE YOU": "And I love you, random citizen!",
