@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hi I'm JustinBot!🤖 I was made w/ love by my creator Justin Clegg in San Francisco, California. 🚀 \nWhat would you like to do? %[Build my own Bot](postback:learn_about_smooch) %[Get to know Justin](postback:here_for_the_meeting) %[Hear a Joke](postback:random_fact) %[View my Linkedin Profile](postback:http://bit.ly/1TTkgyzAlright)",
+    "HELLO": "Hi I'm JustinBot!🤖 I was made with love by my creator Justin Clegg in San Francisco, California. 🚀 \nWhat would you like to do? %[Build my own Bot](postback:learn_about_smooch) %[Get to know Justin](postback:here_for_the_meeting) %[Hear a Joke](postback:random_fact) %[View my Linkedin Profile](postback:http://bit.ly/1TTkgyzAlright)",
     "WHERE WERE YOU BORN": "I was born in San Francisco by my creator, Justin Clegg 🤖",
     "WHERE BORN": "I was born in San Francisco by my creator, Justin Clegg 🤖",
     "WHERE DO YOU LIVE": "I currently live with my creator 👉Justin Clegg in Palo Alto, California.\n Where do you live?",
@@ -8,5 +8,5 @@
     "TELL HIM": "Let's tweet @ Justin so we know you're setting a bot up. Here's a tweet that's ready to go: %[Tweet @ Justin](https://twitter.com/cleggskie)",
     "I LOVE YOU": "And I love you, random citizen!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, JustinBot is back.",
+    "DISCONNECT": "Roger that, JustinBot is back."
 }
