@@ -1,5 +1,5 @@
 {
-    "HELLO": "Well hello back!🤖 I'm here to help you build your own bot. \nWhat would you like to do first? %[Build my own Bot!](postback:learn_about_smooch) %[Get to know Justin](postback:here_for_the_meeting) %[Hear a Joke](postback:random_fact)",
+    "HELLO": "Well hello back! 🤖 I'm here to help you get set up with building your own bot. \nWhat would you like to do first? %[Build my bot!](postback:learn_about_smooch) %[Get to know Justin](postback:here_for_the_meeting) %[Hear a Joke](postback:random_fact)",
     "WHERE WERE YOU BORN?": "I was born in San Francisco by my creator, Justin Clegg 🤖",
     "WHERE DO YOU LIVE?": "I currently live with my creator 👉Justin Clegg in Palo Alto, California.\n Where do you live?",
     "MEETING": "Happy to set you up with a meeting with Justin. Here is his calendar: 📅https://calendly.com/justindclegg",
