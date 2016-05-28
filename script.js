@@ -1,7 +1,7 @@
 'use strict';
 
 const _ = require('lodash');
-const Script = require('smooch-bot').Script;
+const Script = require('JustinBot').Script;
 
 const scriptRules = require('./script.json');
 
@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hello and welcome to Smooch Sales! I can help you set up a meeting with our Head of Business Development, Justin Clegg. Just say hello to get started...')
+            return bot.say('Hello! I am JustinBot🤖! Just say Hello to get started.')
                 .then(() => 'speak');
         }
     },
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`Sorry, my creator didn't teach me how to do anything else.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
