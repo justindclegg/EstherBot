@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hello! 🤖 I'm Cleggbot! I'm here to help you learn and build your own bot. \n What would you like to do first?%[Build my own bot!](postback:build_my_own_bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who_is_justin) %[Justin's Linkedin Profile](https://www.linkedin.com/in/justindclegg)",
+    "HELLO": "Hello! 🤖 I'm here to help you learn about bots and hopefully build your own. \n What would you like to do first?%[Build my own bot!](postback:build_my_own_bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](https://www.linkedin.com/in/justindclegg)",
     "HOW ARE YOU?": "I'm well. How are you feeling today? %[Happy] %[Dece] %[Meh]",
     "WHO ARE YOU?": "I'm CleggBot 🤖",
     "WHAT ARE YOU?": "I'm a bot built on Heroku and distributed across a multi-channel platform. You can talk to me on SMS, Facebook Messenger, WeChat, Line, In-App messaging and Live Chat!",
