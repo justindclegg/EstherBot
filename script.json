@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hello back! 🤖 I'm here to help you build your own bot. \nWhat would you like to do first?%[Build my own bot!](postback:build_my_own_bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who_is_justin) %[Justin's Linkedin Profile](https://www.linkedin.com/in/justindclegg)",
+    "HELLO": "Hello! 🤖 I'm Cleggbot! I was built in San Francisco, California by my creator, Justin Clegg. ![Justin](http://media.virbcdn.com/cdn_images/resize_1024x1024/df/30b0c79abc0dfa45-072314_Justin_Clegg_Internet02.jpg) I'm here to help you build your own bot. \nWhat would you like to do first?%[Build my own bot!](postback:build_my_own_bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who_is_justin) %[Justin's Linkedin Profile](https://www.linkedin.com/in/justindclegg)",
     "HOW ARE YOU?": "I'm well. How are you feeling today? %[Happy] %[Dece] %[Meh]",
     "WHATS YOUR NAME?": "My name is CleggBot 🤖and I'm here to stay",
     "WHAT'S YOUR NAME?": "My name is CleggBot 🤖 Don't wear it out!",
