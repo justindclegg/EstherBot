@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi Im CleggBot!🤖 I was built by my creator, Justin Clegg in San Francisco, California. 🚀 \n![Justin](http://media.virbcdn.com/cdn_images/resize_1024x1024/df/30b0c79abc0dfa45-072314_Justin_Clegg_Internet02.jpg) \nJust say Hello to get started.')
+            return bot.say('Hi Im CleggBot!🤖 I was built by my creator, Justin Clegg in San Francisco, California. 🚀 Just say Hello to get started.')
                 .then(() => 'speak');
         }
     },
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Cool, Justin didn't teach me how to understand that yet. Try asking me another question`).then(() => 'speak');
+                    return bot.say(`Cool. Justin hasn't taught me how to understand that quite yet. Try asking me a question instead!`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
