@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hello! 🤖 I'm here to help you build your own bot \n What would you like to do first?%[Build my own bot!](postback:build_my_own_bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who_is_justin) %[Justin's Linkedin Profile](https://www.linkedin.com/in/justindclegg)",
+    "HELLO": "Hello! 🤖 I'm here to help you build your own bot. \n What would you like to do first?%[Build my own bot!](postback:build_my_own_bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who_is_justin) %[Justin's Linkedin Profile](https://www.linkedin.com/in/justindclegg)",
     "HOW ARE YOU?": "I'm well. How are you feeling today? %[Happy] %[Dece] %[Meh]",
     "WHATS YOUR NAME?": "My name is CleggBot🤖 Let's be friends!",
     "WHAT'S YOUR NAME?": "My name is CleggBot🤖 Let's be friends!",
