@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hello! 🤖 I'm one of the world's first multi-channel messaging bots. That means you can talk to me on SMS, Facebook Messenger, WeChat, Line, In-App messaging and Live Chat! \nI can set up meetings for you, recommend good music, tell jokes and even help you build your own Bot. What would you like to do first? %[Build My Own Bot](postback:Bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who_is_justin_clegg)",
+    "HELLO": "Hello! 🤖 I'm Cleggbot- one of the world's first multi-channel messaging bots. That means you can talk to me on SMS, Facebook Messenger, WeChat, Line, In-App messaging and Live Chat! \nI can set up meetings for you, recommend good music, tell jokes and even help you build your own Bot. What would you like to do first? %[Build My Own Bot](postback:Bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who_is_justin_clegg)",
     "HELLO JUSTIN!": "Hello! 🤖 I'm one of the world's first multi-channel messaging bots. That means you can talk to me on SMS, Facebook Messenger, WeChat, Line, In-App messaging and Live Chat! \nI can set up meetings for you, recommend good music, tell jokes and even help you build your own Bot. What would you like to do first? %[Build My Own Bot](postback:Bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who is justin clegg)",
     "HELLO JUSTIN": "Hello! 🤖 I'm one of the world's first multi-channel messaging bots. That means you can talk to me on SMS, Facebook Messenger, WeChat, Line, In-App messaging and Live Chat! \nI can set up meetings for you, recommend good music, tell jokes and even help you build your own Bot. What would you like to do first? %[Build My Own Bot](postback:Bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who_is_justin_clegg)",
     "HELLO, JUSTIN!": "Hello! 🤖 I'm one of the world's first multi-channel messaging bots. That means you can talk to me on SMS, Facebook Messenger, WeChat, Line, In-App messaging and Live Chat! \nI can set up meetings for you, recommend good music, tell jokes and even help you build your own Bot. What would you like to do first? %[Build My Own Bot](postback:Bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:who is justin clegg)",
@@ -44,12 +44,13 @@
     "WHATS YOUR NAME?": "My name is CleggBot 🤖 Let's be friends!",
     "WHAT IS YOUR NAME?": "My name is CleggBot 🤖 Let's be friends!",
     "WHAT'S YOUR NAME?": "My name is CleggBot 🤖 Let's be friends!",
-    "TELL ME A JOKE": "A blind man walks into a bar... And a table. And a chair. %[New Joke](tell_me_another_joke) %[Recommend Music](postback:what_music_do_you_like) %[Learn About Justin](fact_about_justin)",
+    "TELL ME A JOKE": "A blind man walks into a bar... And a table. And a chair. %[New Joke](postback:tell_me_another_joke) %[Recommend Music](postback:what_music_do_you_like) %[Learn About Justin](fact_about_justin)",
     "TELL ME ANOTHER JOKE": "Why did Star Wars episodes 4, 5, and 6 come before 1, 2, and 3? \nBecause in charge of scheduling, Yoda was.",
     "TELL ME A DIFFERENT JOKE": "A blind man walks into a bar. And a table. And a chair.",
     "TELL A JOKE":"A blind man walks into a bar. And a table. And a chair.",
-    "HEAR A JOKE": "A blind man walks into a bar. And a table. And a chair.",
+    "HEAR A JOKE": "A blind man walks into a bar... And a table. And a chair. %[New Joke](postback:tell_me_another_joke) %[Recommend Music](postback:what_music_do_you_like) %[Learn About Justin](fact_about_justin)",
     "HEAR A DIFFERENT JOKE": "A blind man walks into a bar. And a table. And a chair.",
+    "NEW JOKE": ""
     "HEAR ANOTHER JOKE": "A blind man walks into a bar. And a table. And a chair.",
     "JOKE": "A blind man walks into a bar. And a table. And a chair.",
     "COOL": "Cool is right, bro. Am I doing this human thing right?",
