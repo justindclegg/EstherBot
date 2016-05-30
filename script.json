@@ -50,7 +50,7 @@
     "TELL A JOKE":"A blind man walks into a bar. And a table. And a chair.",
     "HEAR A JOKE": "A blind man walks into a bar... And a table. And a chair. %[New Joke](postback:tell_me_another_joke) %[Recommend Music](postback:what_music_do_you_like) %[Learn About Justin](fact_about_justin)",
     "HEAR A DIFFERENT JOKE": "A blind man walks into a bar. And a table. And a chair.",
-    "NEW JOKE": ""
+    "NEW JOKE": "Why did Star Wars episodes 4, 5, and 6 come before 1, 2, and 3? \nBecause in charge of scheduling, Yoda was.",
     "HEAR ANOTHER JOKE": "A blind man walks into a bar. And a table. And a chair.",
     "JOKE": "A blind man walks into a bar. And a table. And a chair.",
     "COOL": "Cool is right, bro. Am I doing this human thing right?",
