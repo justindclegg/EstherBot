@@ -16,7 +16,7 @@
     "HOW ARE YOU?": "I'm well. What kind of mood are you in today? %[Happy](https://soundcloud.com/dont-touch-the-classics/dr-dre-the-next-episode-san-holo-remix) %[Dece](https://soundcloud.com/dont-touch-the-classics/50-cent-in-da-club-san-holo-remix) %[Meh](https://soundcloud.com/ali-shields-702053293/hello-ali-shields-x-trevor-okoren)",
     "HOW ARE YOU": "I'm well. How are you feeling today? %[Happy](https://soundcloud.com/dont-touch-the-classics/dr-dre-the-next-episode-san-holo-remix) %[Dece](https://soundcloud.com/dont-touch-the-classics/50-cent-in-da-club-san-holo-remix) %[Meh](https://soundcloud.com/ali-shields-702053293/hello-ali-shields-x-trevor-okoren)",
     "TRY SMS": "You can reach CleggBot via SMS by texting: (+1(650)-229-5051)",
-    "TRY WEB CHAT": "You can test CleggBot on Web Chat using the link below. Talk to you soon! %[Web Chat](https://cleggbot.herokuapp.com/)",
+    "TRY WEB CHAT": "You can test CleggBot on Web Chat using the link below. Talk to you soon! %[Web Chat](https://cleggbot.herokuapp.com/) \nWhat would you like to do next? %[Show Me Good Music](postback:music) %[Tell Me a Joke](postback:tell_me_a_joke) %[Build My Own Bot](postback:Bot) %[Get to Know Justin](postback:who_is_justin_clegg)",
     "HOWS THE WEATHER?": "It's always sunny in California.",
     "WHATS THE WEATHER LIKE?": "It's always sunny in California.",
     "WHAT'S THE WEATHER LIKE?": "It's always sunny in California.",
