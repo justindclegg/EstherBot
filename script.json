@@ -7,16 +7,18 @@
     "HI JUSTINBOT!": "Hello! 🤖 I'm one of the world's first multi-channel messaging bots. That means you can talk to me on SMS, Facebook Messenger, WeChat, Line, In-App messaging and Live Chat! \nI can set up meetings for you, recommend good music, tell jokes and even help you build your own Bot. What would you like to do first? %[Build My Own Bot](postback:Bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:WHO_IS_JUSTIN_CLEGG?)",
     "HI JUSTINBOT": "Hello! 🤖 I'm one of the world's first multi-channel messaging bots. That means you can talk to me on SMS, Facebook Messenger, WeChat, Line, In-App messaging and Live Chat! \nI can set up meetings for you, recommend good music, tell jokes and even help you build your own Bot. What would you like to do first? %[Build My Own Bot](postback:Bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:WHO_IS_JUSTIN_CLEGG?)",
     "HI, JUSTINBOT": "Hello! 🤖 I'm one of the world's first multi-channel messaging bots. That means you can talk to me on SMS, Facebook Messenger, WeChat, Line, In-App messaging and Live Chat! \nI can set up meetings for you, recommend good music, tell jokes and even help you build your own Bot. What would you like to do first? %[Build My Own Bot](postback:Bot) %[Hear a Joke](postback:tell_me_a_joke) %[Get to Know Justin](postback:WHO_IS_JUSTIN_CLEGG?)",
-    "HOW ARE YOU?": "I'm well. How are you feeling today? %[Happy](https://soundcloud.com/dont-touch-the-classics/dr-dre-the-next-episode-san-holo-remix) %[Dece](https://soundcloud.com/dont-touch-the-classics/50-cent-in-da-club-san-holo-remix) %[Meh](https://soundcloud.com/ali-shields-702053293/hello-ali-shields-x-trevor-okoren)",
-    "HOW ARE YOU?": "I'm well. How are you feeling today? %[Happy](https://soundcloud.com/dont-touch-the-classics/dr-dre-the-next-episode-san-holo-remix) %[Dece](https://soundcloud.com/dont-touch-the-classics/50-cent-in-da-club-san-holo-remix) %[Meh](https://soundcloud.com/ali-shields-702053293/hello-ali-shields-x-trevor-okoren)",
-    "HOWS THE WEATHER?": "It's always sunny in California."
-    "WHATS THE WEATHER LIKE?": "It's always sunny in California."
-    "WHAT'S THE WEATHER LIKE?": "It's always sunny in California."
-    "WHAT'S THE WEATHER LIKE TODAY?": "It's always sunny in California."
-    "WHATS THE WEATHER LIKE TODAY?": "It's always sunny in California."
-    "WHATS THE WEATHER LIKE THIS WEEK?":
-    "HOW'S THE WEATHER?":
-    "HOWS THE WEATHER":
+    "HOW ARE YOU?": "I'm well. What kind of mood are you in today? %[Happy](https://soundcloud.com/dont-touch-the-classics/dr-dre-the-next-episode-san-holo-remix) %[Dece](https://soundcloud.com/dont-touch-the-classics/50-cent-in-da-club-san-holo-remix) %[Meh](https://soundcloud.com/ali-shields-702053293/hello-ali-shields-x-trevor-okoren)",
+    "HOW ARE YOU": "I'm well. How are you feeling today? %[Happy](https://soundcloud.com/dont-touch-the-classics/dr-dre-the-next-episode-san-holo-remix) %[Dece](https://soundcloud.com/dont-touch-the-classics/50-cent-in-da-club-san-holo-remix) %[Meh](https://soundcloud.com/ali-shields-702053293/hello-ali-shields-x-trevor-okoren)",
+    "HOWS THE WEATHER?": "It's always sunny in California.",
+    "WHATS THE WEATHER LIKE?": "It's always sunny in California.",
+    "WHAT'S THE WEATHER LIKE?": "It's always sunny in California.",
+    "WHAT'S THE WEATHER LIKE TODAY?": "It's always sunny in California.",
+    "WHATS THE WEATHER LIKE TODAY?": "It's always sunny in California.",
+    "WHATS THE WEATHER LIKE THIS WEEK?": "It's going to be Sunny, at least in California.",
+    "HOW'S THE WEATHER?": "It's always sunny in California.",
+    "HOWS THE WEATHER":"It's always sunny in California.",
+    "WEATHER": "It's always sunny in California.",
+    "WEATHER REPORT": "It's always sunny in California.",
     "WHATS UP?": "Sup. Here are some of my favorite remixes brought to you by San Holo: %[Next Episode](https://soundcloud.com/dont-touch-the-classics/dr-dre-the-next-episode-san-holo-remix) %[In Da Club](https://soundcloud.com/dont-touch-the-classics/50-cent-in-da-club-san-holo-remix) %[Lose Yourself](https://soundcloud.com/dont-touch-the-classics/eminem-lose-yourself-san-holo-remix)",
     "WHAT'S UP?": "Sup. Here are some of my favorite remixes brought to you by San Holo: %[Next Episode](https://soundcloud.com/dont-touch-the-classics/dr-dre-the-next-episode-san-holo-remix) %[In Da Club](https://soundcloud.com/dont-touch-the-classics/50-cent-in-da-club-san-holo-remix) %[Lose Yourself](https://soundcloud.com/dont-touch-the-classics/eminem-lose-yourself-san-holo-remix)",
     "SAN HOLO": "Here are some of my favorite San Holo remixes: %[The Next Episode](https://soundcloud.com/dont-touch-the-classics/dr-dre-the-next-episode-san-holo-remix) %[In Da Club](https://soundcloud.com/dont-touch-the-classics/50-cent-in-da-club-san-holo-remix) %[Lose Yourself](https://soundcloud.com/dont-touch-the-classics/eminem-lose-yourself-san-holo-remix)",
