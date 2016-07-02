@@ -31,8 +31,8 @@ class BetterSmoochApiBot extends SmoochApiBot {
     }
 }
 
-const name = 'SmoochBot';
-const avatarUrl = 'https://s.gravatar.com/avatar/f91b04087e0125153623a3778e819c0a?s=80';
+const name = 'CleggBot';
+const avatarUrl = 'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAQsAAAAJDM4NTQ1NzQ2LTllZTItNDk4ZS04Nzg3LTkyNDBkOGE2Y2U5MQ.jpg';
 const store = new SmoochApiStore({
     jwt
 });
